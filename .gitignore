@@ -6,3 +6,4 @@ build.mjs
 *.command
 .DS_Store
 test/
+apps-script/
